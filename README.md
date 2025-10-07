@@ -1,0 +1,1 @@
+Visual Geometry Group (VGG) was implemented, aiming for predicting polymer properties (thermal, mechanical, electrical, optical, structural, and gas permeable properties, in total 27 physical properties). This was basically for personal record, meaning dataset was not included, but you can find the ML logics/flow and the model implementation. 
